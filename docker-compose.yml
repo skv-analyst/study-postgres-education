@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  postgres:
+    build:
+      context: ./docker
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: demo
+      POSTGRES_PASSWORD: demo
+      POSTGRES_DB: demo
+    volumes:
+      - ./docker/init/demo-medium-20161013.zip:/docker-entrypoint-initdb.d/demo-medium-20161013.zip

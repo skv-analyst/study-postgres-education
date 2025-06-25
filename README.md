@@ -1,0 +1,29 @@
+# PostgreSQL 17 + Demo Database
+
+## Prerequisites
+- Docker installed
+
+## Running the database
+
+1. Clone this repository:
+    ```bash
+    git clone https://github.com/skv-analyst/postgres-education-db.git
+    ```
+
+2. Build and run the container:
+   ```bash
+   docker-compose up -d
+   ```
+   
+3. Verify container is running:
+   ```bash
+   docker ps -a
+   ```
+
+
+### Connection details
+- Host: `localhost`
+- Port: `5432`
+- Database: `demo`
+- Username: `demo`
+- Password: `demo`

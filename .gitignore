@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# DataSpell
+.idea/
+
+# DB files
+*.sql
+*.dump
+demo-medium-20161013/
+
+# Docker
+.env
