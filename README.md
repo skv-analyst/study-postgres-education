@@ -1,4 +1,5 @@
 # PostgreSQL 17 + Demo Database
+- [Book](https://postgrespro.ru/education/books/advancedsql)
 
 ## Prerequisites
 - Docker installed
