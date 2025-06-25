@@ -7,6 +7,7 @@
 
 1. Clone this repository:
     ```bash
+    git init
     git clone https://github.com/skv-analyst/postgres-education-db.git
     ```
 
