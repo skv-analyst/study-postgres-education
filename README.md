@@ -13,6 +13,7 @@
 
 2. Build and run the container:
    ```bash
+   cd postgres-education-db
    docker-compose up -d
    ```
    
