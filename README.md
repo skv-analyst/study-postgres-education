@@ -1,8 +1,9 @@
 # PostgreSQL. Профессиональный SQL
 
-Этот репозиторий создан для практической работы с книгой ["PostgreSQL. Профессиональный SQL"](https://postgrespro.ru/education/books/advancedsql), которая бесплатно распространяется [PostgresPro](https://postgrespro.ru/).
-Репозиторий содержит конфигурацию для быстрого развертывания PostgreSQL 17 в Docker-контейнере c набором данных из [Демонстрационной базы данных](https://postgrespro.ru/education/demodb).
-
+## Зачем
+Репозиторий содержит конфигурацию для быстрого развёртывания PostgreSQL 17 в Docker-контейнере с набором данных из [демонстрационной базы данных](https://postgrespro.ru/education/demodb). Он предназначен для практической работы с бесплатно распространяемыми книгами от PostgresPro:
+1. ["PostgreSQL. Основы языка SQL"](https://postgrespro.ru/education/books/sqlprimer) 
+2. ["PostgreSQL. Профессиональный SQL"](https://postgrespro.ru/education/books/advancedsql)
 
 ## Быстрый старт
 Чтобы начать работу:
