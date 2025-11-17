@@ -4,6 +4,9 @@
 # DataSpell
 .idea/
 
+# VSCode
+.vscode/
+
 # DB files
 *.sql
 *.dump
