@@ -12,7 +12,7 @@
    ```bash
    mkdir pg-book && cd pg-book
    git init
-   git clone https://github.com/skv-analyst/postgres-education-db.git
+   git clone https://github.com/skv-analyst/study-postgres-education.git
    cd postgres-education-db
    ```
 3. Запусти контейнер:
