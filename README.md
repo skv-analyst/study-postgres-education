@@ -13,10 +13,10 @@
    mkdir pg-book && cd pg-book
    git init
    git clone https://github.com/skv-analyst/study-postgres-education.git
-   cd postgres-education-db
    ```
-3. Запусти контейнер:
+3. Перейди в директорию и запусти контейнер:
     ```bash
+    cd study-postgres-education
     docker-compose up -d
     ```
 4. Проверь, что контейнер работает. В выводе команды будет работающий контейнер с открытым портом (5432).
