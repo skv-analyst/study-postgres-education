@@ -7,10 +7,11 @@
 # VSCode
 .vscode/
 
-# DB files
-*.sql
-*.dump
-demo-medium-20161013/
-
-# Docker
+# Environments
 .env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
